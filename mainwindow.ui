@@ -81,7 +81,7 @@
          <x>0</x>
          <y>0</y>
          <width>719</width>
-         <height>377</height>
+         <height>361</height>
         </rect>
        </property>
        <layout class="QVBoxLayout" name="verticalLayout_2">
@@ -129,6 +129,24 @@
         </item>
        </layout>
       </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QLabel" name="label">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>6</pointsize>
+       </font>
+      </property>
+      <property name="text">
+       <string>v1.0</string>
+      </property>
      </widget>
     </item>
    </layout>
